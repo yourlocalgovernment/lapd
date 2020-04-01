@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML.replace((/(salad)/gi) (/(salads)/gi)), "<i>salad</i>" "<i>salads</i>" );
